@@ -1,4 +1,4 @@
- Hi there 👋, Justin Adkins
+ Hi there 👋,
 
 
 ![banner](https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/1593aeed-4fc2-4a40-aafd-ba95e622bbd8)
