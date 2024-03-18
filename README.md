@@ -8,8 +8,7 @@ I am Justin Adkins, An experienced software developer specializing in Java and P
 
 
 #Techstack
->💻 HTML, CSS, JAVASCRIPT, JSON, XML
->🔧 ANGULAR, TYPESCRIPT, JAVA, SPRING, SQL
+<img src ="https://skillicons.dev/icons?i=js,html,css" />
 
 
 #Project Examples
