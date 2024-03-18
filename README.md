@@ -23,7 +23,7 @@ Coffee Shop Landing Page Wire Frames - Created using Lucidchart
 
 
 
-<.....................................................................................................................................................................................................>
+
 2. Watch E-commerce store Landing Page - Created using HTML, CSS and Javascript.
    
 <video src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/62286c17-2854-4dcc-acd0-af5ee10bb210" width ="600" height ="300" />
