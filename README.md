@@ -9,7 +9,7 @@ I am Justin Adkins, An experienced software developer specializing in Java and P
 
 #Techstack <br>
 
-<img src ="https://skillicons.dev/icons?i=html,css,js,java,py,cpp,angular,hibernate,bootstrap,mysql,git,github,postman,spring,junit,aws,eclispe,linux,windows,kali,maven,npm,visualstudio" />
+<img src ="https://skillicons.dev/icons?i=html,css,js,java,py,cpp,angular,hibernate,bootstrap,mysql,git,github,postman,spring,junit,aws,eclipse,linux,windows,kali,maven,npm,visualstudio" />
 
 
 #Project Examples
