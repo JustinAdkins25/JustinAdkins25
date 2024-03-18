@@ -12,8 +12,6 @@ I am Justin Adkins, An experienced software developer specializing in Java and P
 >🔧 ANGULAR, TYPESCRIPT, JAVA, SPRING, SQL
 
 #Project Examples
-
-
-[<video src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/f94371ab-45c4-44b3-a231-b0f005110609" width ="600" height ="300" />]
+[<video src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/f94371ab-45c4-44b3-a231-b0f005110609" width ="600" height ="300" autoplay />]
 
 
