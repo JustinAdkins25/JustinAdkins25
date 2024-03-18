@@ -15,7 +15,8 @@ I am Justin Adkins, An experienced software developer specializing in Java and P
 #Project Examples
 1. Coffee Shop Landing Page -  Created using HTML, CSS, and Javascript.
 <video src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/f94371ab-45c4-44b3-a231-b0f005110609" width ="600" height ="300" autoplay />;
+<img src = [CoffeeShopWireFrame.pdf](https://github.com/JustinAdkins25/JustinAdkins25/files/14641067/CoffeeShopWireFrame.pdf) />;
 
 
-2. Watch E-commerce store Landing Page - Created using HTML, CSS and Javascript.
+3. Watch E-commerce store Landing Page - Created using HTML, CSS and Javascript.
 <video src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/62286c17-2854-4dcc-acd0-af5ee10bb210" width ="600" height ="300" />;
