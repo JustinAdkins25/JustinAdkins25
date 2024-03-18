@@ -10,3 +10,6 @@ I am Justin Adkins, An experienced software developer specializing in Java and P
 #Techstack
 >💻 HTML, CSS, JAVASCRIPT, JSON, XML
 >🔧 ANGULAR, TYPESCRIPT, JAVA, SPRING, SQL
+
+#Project Examples
+<img src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/fd7aebfc-2db2-487f-8acb-bc17b1933254" width = "256" />
