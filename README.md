@@ -9,7 +9,7 @@ I am Justin Adkins, An experienced software developer specializing in Java and P
 
 #Languages and Tools <br>
 
-<img src ="https://skillicons.dev/icons?i=html,css,js,java,py,cpp,angular,typescript,hibernate,bootstrap,mysql,git,github,postman,spring,junit,aws,eclipse,linux,windows,kali,maven,linkedin,npm,visualstudio" />
+<img src ="https://skillicons.dev/icons?i=html,css,js,java,py,cpp,angular,typescript,hibernate,bootstrap,mysql,git,github,postman,spring,aws,eclipse,linux,windows,kali,maven,linkedin,npm,visualstudio" />
 
 
 #Project Examples
