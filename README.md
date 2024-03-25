@@ -30,3 +30,6 @@ Repository: https://github.com/JustinAdkins25/WatchEcommerceStore
 
 3. News API site - Created in Angular using HTML, CSS, NewsApi.org API, GNews.io API, OpenWeathermap.org API, and Finnhub.io API. <br>
 Repository: https://github.com/JustinAdkins25/
+
+
+<img src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/46d617d2-a8c1-475f-a329-b633a52a7675" />
