@@ -25,3 +25,7 @@ Repository:  https://github.com/JustinAdkins25/CoffeeShopLandingPage
 Repository: https://github.com/JustinAdkins25/WatchEcommerceStore
    
 <video src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/62286c17-2854-4dcc-acd0-af5ee10bb210" width ="600" height ="300" />
+<br>
+
+2. News API site - Created in Angular using HTML, CSS, NewsApi.org API, GNews.io API, OpenWeathermap.org API, and Finnhub.io API <br>
+Repository: https://github.com/JustinAdkins25/
