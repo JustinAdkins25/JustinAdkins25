@@ -15,7 +15,7 @@ I am Justin Adkins, An experienced software developer specializing in Java and P
 1. Coffee Shop Landing Page -  Created using HTML, CSS, and Javascript. <br>
 Repository:  https://github.com/JustinAdkins25/CoffeeShopLandingPage
    
-<video src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/f94371ab-45c4-44b3-a231-b0f005110609" width ="600" height ="300" autoplay />;
+<video src ="https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/d61083ee-e567-4e72-9e0c-ff0c2e834cce" width ="600" height ="300" autoplay />;
 
 
 
@@ -31,4 +31,4 @@ Repository: https://github.com/JustinAdkins25/WatchEcommerceStore
 Repository: https://github.com/JustinAdkins25/News-API-Site
 
 
-<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/46d617d2-a8c1-475f-a329-b633a52a7675" />;
+<img src = " />;
