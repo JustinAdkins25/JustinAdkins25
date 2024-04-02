@@ -31,4 +31,4 @@ Repository: https://github.com/JustinAdkins25/WatchEcommerceStore
 Repository: https://github.com/JustinAdkins25/News-API-Site
 
 
-<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/c8070a13-8388-4a4e-86ef-3c6dafd2cf3d" />;
+<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/c8070a13-8388-4a4e-86ef-3c6dafd2cf3d" />
