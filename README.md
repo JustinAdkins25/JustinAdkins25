@@ -1,7 +1,7 @@
  Hi there 👋,
 
 
-<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/1593aeed-4fc2-4a40-aafd-ba95e622bbd8" />;
+<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/41f49b9b-2b28-4328-aafc-ac2cc23c407c" />;
 
 I am Justin Adkins, An experienced software developer specializing in Java and Python programming languages. I have experience in developing software applications in Angular framework. I am passionate about staying up-to-date with the latest technologies and trends in the industry. My goal is to use my experience to continue to build innovative and efficient software solutions that help drive business success.
 
@@ -23,7 +23,7 @@ Repository:  https://github.com/JustinAdkins25/CoffeeShopLandingPage
 2. Watch E-commerce store Landing Page - Created using HTML, CSS and Javascript. <br>
 Repository: https://github.com/JustinAdkins25/WatchEcommerceStore
    
-<video src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/60fc35f7-fd77-49f7-bb6d-cfd612fc4454" width ="600" height ="300" />;
+<video src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/0cdaae4c-5c1f-4906-a150-75b16348332f" width ="600" height ="300" />;
 <br>
 
 
