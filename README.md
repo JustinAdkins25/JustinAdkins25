@@ -1,7 +1,7 @@
  Hi there 👋,
 
 
-<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/41f49b9b-2b28-4328-aafc-ac2cc23c407c" />;
+<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/41f49b9b-2b28-4328-aafc-ac2cc23c407c" />
 
 I am Justin Adkins, An experienced software developer specializing in Java and Python programming languages. I have experience in developing software applications in Angular framework. I am passionate about staying up-to-date with the latest technologies and trends in the industry. My goal is to use my experience to continue to build innovative and efficient software solutions that help drive business success.
 
@@ -31,4 +31,4 @@ Repository: https://github.com/JustinAdkins25/WatchEcommerceStore
 Repository: https://github.com/JustinAdkins25/News-API-Site
 
 
-<img src = " />;
+<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/c8070a13-8388-4a4e-86ef-3c6dafd2cf3d" />;
