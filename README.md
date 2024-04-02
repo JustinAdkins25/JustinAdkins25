@@ -21,7 +21,7 @@ Repository:  https://github.com/JustinAdkins25/CoffeeShopLandingPage
 
 
 2. Watch E-commerce store Landing Page - Created using HTML, CSS and Javascript. <br>
-Repository: https://github.com/JustinAdkins25/WatchEcommerceStore
+Repository: https://github.com/JustinAdkins25/WatchStoreLandingPage
    
 <video src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/0cdaae4c-5c1f-4906-a150-75b16348332f" width ="600" height ="300" />;
 <br>
