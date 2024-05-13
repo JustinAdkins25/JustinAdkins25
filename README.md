@@ -31,9 +31,9 @@ Repository: https://github.com/JustinAdkins25/WatchStoreLandingPage
 Repository: https://github.com/JustinAdkins25/News-API-Site
 
 
-<video src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/999bbad0-1ee2-4fb5-9096-c2231889ab00/>
+<video src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/999bbad0-1ee2-4fb5-9096-c2231889ab00" width ="600" height ="300" />
 
 4. Order Management System - CRUD full stack Application. Front End created in Visual Studios with Angular using HTML, CSS and Node.js. Backend created in Intellij using Java, Spring Data JPA, Spring Web, MySQL Driver and Spring Boot DevTools.<br>
 Repository: https://github.com/JustinAdkins25/CRUDFullStackApplication
 
-<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/917d5657-c372-44c6-a400-2a2475f09eb3" />
+<img src = "https://github.com/JustinAdkins25/JustinAdkins25/assets/104293741/917d5657-c372-44c6-a400-2a2475f09eb3"   />
