@@ -32,7 +32,7 @@ Repository: https://github.com/JustinAdkins25/News-Api-Project
 
 
 
-<video src = "https://github.com/JustinAdkins25/News-API-Site/assets/104293741/df0a8ecd-308b-4753-972d-ae6db0c1c00a" />;
+<video src = "https://github.com/JustinAdkins25/News-API-Site/assets/104293741/df0a8ecd-308b-4753-972d-ae6db0c1c00a" />; <br>
 
 4. Order Management System - CRUD full stack Application. Front End created in Visual Studios with Angular using HTML, CSS and Node.js. Backend created in Intellij using Java, Spring Data JPA, Spring Web, MySQL Driver and Spring Boot DevTools.<br>
 Repository: https://github.com/JustinAdkins25/CRUDFullStackApplication
