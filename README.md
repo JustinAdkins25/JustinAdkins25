@@ -43,10 +43,10 @@ Repository: https://github.com/JustinAdkins25/CRUDFullStackApplication
 
 5. JUNIT 5.8.1 Simple test of a floor measuring application. Written in java and JUnit 5.8.1 <br>
    Repository: https://github.com/JustinAdkins25/JUNIT-Testing <br> <br>
-   <img src = "https://github.com/user-attachments/assets/5a12f22c-2ebf-4f94-b7a7-692b62fe6fd5" />
+   <img src = "https://github.com/user-attachments/assets/5a12f22c-2ebf-4f94-b7a7-692b62fe6fd5" /> <br>
 
 6. TicTacToe Game Simple game created using Html, CSS, and JavaScript.
-    Repository: https://github.com/JustinAdkins25/TicTacToe <br> <br>
+    Repository: https://github.com/JustinAdkins25/TicTacToe <br> 
    <video src = "https://github.com/user-attachments/assets/6d2e6088-bfd8-40d6-b140-b8cfcb08a0a6" />
    
 
