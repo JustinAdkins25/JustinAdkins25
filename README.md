@@ -46,7 +46,7 @@ Repository: https://github.com/JustinAdkins25/CRUDFullStackApplication
    <img src = "https://github.com/user-attachments/assets/5a12f22c-2ebf-4f94-b7a7-692b62fe6fd5" />
 
 6. TicTacToe Game Simple game created using Html, CSS, and JavaScript.
-    Repository:
+    Repository: https://github.com/JustinAdkins25/TicTacToe <br> <br>
    <img src =     />
    
 
