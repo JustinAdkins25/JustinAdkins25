@@ -48,5 +48,10 @@ Repository: https://github.com/JustinAdkins25/CRUDFullStackApplication
 6. TicTacToe Game Simple game created using Html, CSS, and JavaScript.
     Repository: https://github.com/JustinAdkins25/TicTacToe <br> 
    <video src = "https://github.com/user-attachments/assets/6d2e6088-bfd8-40d6-b140-b8cfcb08a0a6" />
+
+7. DeepSeek Training Simulation Application. Written in Dart in Flutter, Deepseek API, AWS Cognito and Aurora.
+    Repository:                                           <br>
+    <img src = "https://github.com/user-attachments/assets/3d7e1019-cd74-4838-a350-9bd8b530bbeb" /> <br>
+
    
 
